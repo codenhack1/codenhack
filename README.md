@@ -20,7 +20,7 @@
 
 ## 🖼️ Preview
 
-![CodeNHack Platform Screenshot](https://i.ibb.co/6JV68PVr/Screenshot-1.png)
+![CodeNHack Platform Screenshot](https://pub-49e1acf3b61b485e8f14983f79b20721.r2.dev/app_images/homepage.png)
 
 ---
 
